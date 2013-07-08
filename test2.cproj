@@ -96,6 +96,9 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="test.c">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="test2.c">
       <SubType>compile</SubType>
     </Compile>
